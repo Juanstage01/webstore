@@ -1,0 +1,18 @@
+{
+  "name": "webstore",
+  "version": "1.0.0",
+  "description": "webstore",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jdancr@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0"
+  },
+  "devDependencies": {}
+}
